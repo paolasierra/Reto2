@@ -11,6 +11,6 @@ Feature: Buscar Tiquetes
     And escoge fecha inicio
     And selecciona fecha regreso
     And escoge numero viajeros
-    And da click en botón buscar
+    And da click en boton buscar
     And el usuario almacena los precios mas baratos en un Excel
     Then el usuario visualiza en excel el tiquete mas barato resaltado en verde
